@@ -1,0 +1,24 @@
+.Confirmation__content {
+    padding: 3rem;
+}
+
+.Confirmation__cardHeader {
+    background-color: #333941!important;
+    color: #ffffff;
+}
+
+.Confirmation__cardBody {
+    padding: 2rem;
+}
+
+.Confirmation__totalPrice {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 3rem;;
+}
+
+.Confirmation__qrCode {
+    width: 15em;
+    height: 13rem;
+    border: none;
+}

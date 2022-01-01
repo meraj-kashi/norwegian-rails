@@ -1,0 +1,30 @@
+.Payment__content {
+    padding: 2rem;
+}
+
+.Payment__card {
+    width: 30rem;
+}
+
+.Payment__cardHeader {
+    background-color: #333941!important;
+    color: #fff;
+}
+
+.Payment__cardText {
+    font-weight: 700;
+}
+
+.Payment__cardBody {
+    padding-left: 3rem;
+}
+
+.Payment__noOfPassengers {
+    margin: 2rem 0 1rem 0;
+    font-size: 1rem;
+}
+
+.Payment__totalPrice {
+    font-size: 1rem;
+    font-weight: 700;
+}

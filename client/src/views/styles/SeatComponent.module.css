@@ -1,0 +1,13 @@
+.SeatComponent__container {
+    padding: 10rem 0;
+}
+
+.SeatComponent__card {
+    width: 40rem;
+    padding: 0!important;
+}
+
+.SeatComponent__cardHeader {
+    background-color: #333941!important;
+    color: #fff;
+}
